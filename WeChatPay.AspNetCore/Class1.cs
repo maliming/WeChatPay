@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace WeChatPay
+namespace WeChatPay.AspNetCore
 {
     public class Class1
     {
